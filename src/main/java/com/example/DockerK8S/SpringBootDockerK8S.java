@@ -163,8 +163,8 @@ public class SpringBootDockerK8S {
 
 		String clusterEndPoint = "https://ED94B864F09ABD40E999ED15E0741868.gr7.ap-southeast-2.eks.amazonaws.com";
 
-		String accessKey = "AKIAWZMC54GDBYHCHLSH";
-		String secretKey = "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";
+		String accessKey = "test";
+		String secretKey = "test";
 
 		String region = "ap-southeast-2";
 
